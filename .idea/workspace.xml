@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4fc3422-61b6-4306-98a2-5f44ccb54a65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qmm5Jns5XudczPXVKbdlziK96l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/hkl" />
+      <recent name="$PROJECT_DIR$/src/main/java/controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application (1)">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hkl.Application" />
+      <module name="CurrentLimit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hkl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="CurrentLimiting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hkl.controller.MyController" />
+      <module name="CurrentLimiting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hkl.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlideWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slide.window.SlideWindow" />
+      <module name="CurrentLimiting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.MyController" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.SlideWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4fc3422-61b6-4306-98a2-5f44ccb54a65" name="Default Changelist" comment="" />
+      <created>1617692955036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617692955036</updated>
+      <workItem from="1617692960672" duration="14183000" />
+      <workItem from="1617782837148" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="61" key="#Application_(1)" timestamp="1617782878347">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="323" y="61" key="#Application_(1)/0.0.1280.800@0.0.1280.800" timestamp="1617782878347" />
+    <state x="237" y="67" key="#Project_Structure" timestamp="1617699834529">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="237" y="67" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1617699834529" />
+    <state x="309" y="331" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1617766344846">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="309" y="331" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.800@0.0.1280.800" timestamp="1617766344846" />
+    <state width="1238" height="71" key="GridCell.Tab.0.bottom" timestamp="1617782628615">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="71" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1617782628615" />
+    <state width="1238" height="207" key="GridCell.Tab.0.bottom/44.23.1236.777@44.23.1236.777" timestamp="1617779801523" />
+    <state width="1238" height="71" key="GridCell.Tab.0.center" timestamp="1617782628612">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="71" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1617782628612" />
+    <state width="1238" height="207" key="GridCell.Tab.0.center/44.23.1236.777@44.23.1236.777" timestamp="1617779801519" />
+    <state width="1238" height="71" key="GridCell.Tab.0.left" timestamp="1617782628610">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="71" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1617782628610" />
+    <state width="1238" height="207" key="GridCell.Tab.0.left/44.23.1236.777@44.23.1236.777" timestamp="1617779801516" />
+    <state width="1238" height="71" key="GridCell.Tab.0.right" timestamp="1617782628613">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="71" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1617782628613" />
+    <state width="1238" height="207" key="GridCell.Tab.0.right/44.23.1236.777@44.23.1236.777" timestamp="1617779801521" />
+    <state x="303" y="164" width="923" height="472" key="find.popup" timestamp="1617767179956">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="303" y="164" width="923" height="472" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1617767179956" />
+  </component>
+</project>
